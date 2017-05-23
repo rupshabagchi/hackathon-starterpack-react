@@ -1,0 +1,27 @@
+{
+  "name": "react-quickstart",
+  "version": "0.1.0",
+  "private": true,
+  "homepage": "",
+  "devDependencies": {
+    "gh-pages": "^0.12.0",
+    "react-scripts": "0.8.5"
+  },
+  "dependencies": {
+    "chartist": "^0.10.1",
+    "firebase": "^3.6.9",
+    "jquery": "^3.1.1",
+    "react": "^15.5.4",
+    "react-dom": "^15.4.2",
+    "react-router-dom": "^4.1.1",
+    "react-transition-group": "^1.1.3",
+    "sweetalert2": "^6.3.8"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "deploy": "echo Read the README.md file!!!",
+    "deploy:github": "yarn run build && gh-pages -d build"
+  }
+}
