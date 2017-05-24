@@ -17,7 +17,7 @@ export default (props) => (
           <span className="icon-bar" />
           <span className="icon-bar" />
         </button>
-        <a href="#" className="navbar-brand"> Dashboard </a>
+        <a href="#" className="navbar-brand">  </a>
       </div>
       <div className="collapse navbar-collapse">
         <ul className="nav navbar-nav navbar-right">
@@ -44,7 +44,7 @@ export default (props) => (
                 <a href="#">You have 5 new tasks</a>
               </li>
               <li>
-                <a href="#">You're now friend with Andrew</a>
+                <a href="#"></a>
               </li>
               <li>
                 <a href="#">Another Notification</a>

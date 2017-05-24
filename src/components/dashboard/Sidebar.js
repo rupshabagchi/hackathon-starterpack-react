@@ -43,7 +43,7 @@ export default class Sidebar extends React.Component {
             </div>
             <div className="info">
               <a className="collapsed" href="#collapseExample" data-toggle="collapse">
-                Tania Andrew
+                John Doe
                 <b className="caret" />
               </a>
               <div id="collapseExample" className="collapse">
@@ -63,8 +63,8 @@ export default class Sidebar extends React.Component {
           </div>
           <ul className="nav">
             <NavItem to='/'>
-                <i className="material-icons">dashboard</i>
-                <p>Dashboard</p>
+                <i className="material-icons"></i>
+
             </NavItem>
             <NavItem to="/web-components" hasSublinks={true}>
               <a href="#componentsExamples" data-toggle="collapse">
@@ -73,16 +73,6 @@ export default class Sidebar extends React.Component {
                   <b className="caret" />
                 </p>
               </a>
-              <div id="componentsExamples" className="collapse">
-                <ul className="nav">
-                  <NavItem to='/web-components/panels'>
-                    Panels and Buttons
-                  </NavItem>
-                  <NavItem to='/web-components/alerts'>
-                    Alerts
-                  </NavItem>
-                </ul>
-              </div>
             </NavItem>
             <li>
               <a href="#pagesExamples" data-toggle="collapse">

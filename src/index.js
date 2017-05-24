@@ -10,9 +10,6 @@ import { Auth } from './firebase';
 import AppLayout from './components/dashboard/AppLayout';
 
 import HomePage from './components/dashboard/pages/Home';
-import AlertsPage from './components/dashboard/pages/Alerts';
-import PanelsPage from './components/dashboard/pages/Panels';
-
 import RegisterPage from './components/landing/pages/Register';
 import LoginPage from './components/landing/pages/Login';
 
@@ -54,8 +51,6 @@ class App extends React.Component {
 					<Route exact path="/" component={() =>
 						<AppLayout>
 							<Route exact path="/" component={HomePage} />
-							<Route path="/web-components/panels" component={PanelsPage} />
-							<Route path="/web-components/alerts" component={AlertsPage} />
 						</AppLayout>
 					} />
 

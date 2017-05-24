@@ -84,11 +84,7 @@ export default (props) => (
             <a className="btn btn-info btn-block" target="_blank" href="#">Get Free Demo</a>
           </div>
         </li>
-        <li className="header-title">Thank you for 95 shares!</li>
-        <li className="button-container">
-          <button className="btn btn-social btn-twitter btn-round" id="twitter"><i className="fa fa-twitter" /> · 45</button>
-          <button className="btn btn-social btn-facebook btn-round" id="facebook"><i className="fa fa-facebook-square"> ·</i>50</button>
-        </li>
+
       </ul>
     </div>
   </div>
