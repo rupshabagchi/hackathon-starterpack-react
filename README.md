@@ -1,5 +1,5 @@
 
-[![dependencies Status](https://david-dm.org/sahat/hackathon-starter/status.svg)](https://
+[![dependencies Status](https://david-dm.org/sahat/hackathon-starter/status.svg)]
 
 
 
