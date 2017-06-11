@@ -1,5 +1,4 @@
 
-[![dependencies Status](https://david-dm.org/sahat/hackathon-starter/status.svg)]
 
 
 
