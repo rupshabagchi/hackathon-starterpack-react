@@ -22,11 +22,17 @@ This is a customizable static boilerpate app using React, to quickly start up th
 
 ### Firebase
 
+#### Installation
+
 ``` 
   npm install -g firebase-tools
-  firebase deploy 
-  ```
-  
-  
+  firebase login
+  firebase init
+```
+#### Deployment
+
+` firebase deploy `
+
+
 
 
