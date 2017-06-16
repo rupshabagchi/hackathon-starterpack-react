@@ -20,6 +20,8 @@ This is a customizable static boilerpate app using React, to quickly start up th
 
 ## To Deploy
 
+Supports deployment using firebase/heroku/github pages
+
 ### Firebase
 
 #### Installation
