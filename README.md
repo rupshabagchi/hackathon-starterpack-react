@@ -22,6 +22,15 @@ This is a customizable static boilerpate app using React, to quickly start up th
 
 Supports deployment using firebase/heroku/github pages
 
+### On development mode
+
+``` 
+cd hackathon-starterpack-react
+npm install
+npm start
+``` 
+
+
 ### Firebase
 
 #### Installation
