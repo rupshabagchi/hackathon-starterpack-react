@@ -4,15 +4,13 @@
 
 # Hackathon starter boilerplate
 
-
-
-This is a customizable static boilerpate app using React, to quickly start up the coding process during my hackathons. It provides the basic setup including declarative routing to quickly get started on the front end.
+This is a customizable static boilerpate app using React, to quickly start up the coding process during hackathons. It provides the basic setup including declarative routing to quickly get started on the front end.
 
 
 ## Features
 
 * Routers
-* Some components
+* Premade components
 * General layout of a react app
 * Basic frontend dashboard
 * Firebase integration
@@ -41,6 +39,12 @@ npm start
   
 ```
 
+### On Heroku
 
+```
+heroku create --buildpack https://github.com/mars/create-react-app-buildpack.git
+git push heroku master
+heroku open
+```
 
 
