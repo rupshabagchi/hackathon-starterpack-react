@@ -31,18 +31,15 @@ npm start
 ``` 
 
 
-### Firebase
-
-#### Installation
+### On Firebase
 
 ``` 
   npm install -g firebase-tools
   firebase login
   firebase init
+  firebase deploy
+  
 ```
-#### Deployment
-
-` firebase deploy `
 
 
 
