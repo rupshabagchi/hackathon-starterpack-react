@@ -14,6 +14,7 @@ This is a customizable static boilerpate app using React, to quickly start up th
 * General layout of a react app
 * Basic frontend dashboard
 * Firebase integration
+* Express server to test
 
 
 ## To Deploy
@@ -27,6 +28,8 @@ cd hackathon-starterpack-react
 npm install
 npm start
 ``` 
+
+or using the express server (server.js)
 
 
 ### On Firebase
