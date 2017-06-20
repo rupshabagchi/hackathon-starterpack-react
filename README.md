@@ -29,9 +29,6 @@ npm install
 npm start
 ``` 
 
-or using the express server (server.js)
-
-
 or using yarn
 ``` 
 npm install -g yarn
@@ -39,6 +36,7 @@ yarn
 yarn run all
 ``` 
 
+or using the express server (server.js)
 
 ### On Firebase
 
