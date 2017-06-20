@@ -50,4 +50,5 @@ git push heroku master
 heroku open
 ```
 
+To deploy to `gh-pages` this very useful npm script [deploy-to-gh-pages](https://www.npmjs.com/package/deploy-to-gh-pages) can be used. 
 
