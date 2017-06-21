@@ -29,14 +29,14 @@ npm install
 npm start
 ``` 
 
-or using yarn
+or using **yarn**
 ``` 
 npm install -g yarn
 yarn
 yarn run all
 ``` 
 
-or using the express server (server.js)
+or using **Express** (server.js)
 
 ### On Firebase
 
