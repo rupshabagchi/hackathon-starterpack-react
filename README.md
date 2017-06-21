@@ -9,15 +9,15 @@ This is a customizable static boilerpate app using React, to quickly start up th
 
 ## Features
 
-* Routers
+* React Routers
 * Premade components
 * General layout of a react app
 * Basic frontend dashboard
-* Firebase integration
-* Express server to test
+* Yarn integration
+* Deployment (Heroku, gh-pages, express, firebase)
 
 
-## To Deploy
+## App setup
 
 Supports deployment using firebase/heroku/github pages
 
