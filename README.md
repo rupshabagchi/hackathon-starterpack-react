@@ -1,6 +1,7 @@
 
 
 [![Build Status](https://travis-ci.org/rupshabagchi/hackathon-starterpack-react.png)](https://travis-ci.org/rupshabagchi/hackathon-starterpack-react)
+[![Beerpay](https://beerpay.io/rupshabagchi/hackathon-starterpack-react/badge.svg?style=flat-square)](https://beerpay.io/rupshabagchi/hackathon-starterpack-react)
 
 # Hackathon starter boilerplate
 
@@ -57,9 +58,3 @@ heroku open
 ```
 
 To deploy to `gh-pages` this very useful npm script [deploy-to-gh-pages](https://www.npmjs.com/package/deploy-to-gh-pages) can be used. 
-
-
-## Support on Beerpay
-Hey dude! Help me out for a couple of :beers:!
-
-[![Beerpay](https://beerpay.io/rupshabagchi/hackathon-starterpack-react/badge.svg?style=beer-square)](https://beerpay.io/rupshabagchi/hackathon-starterpack-react)  [![Beerpay](https://beerpay.io/rupshabagchi/hackathon-starterpack-react/make-wish.svg?style=flat-square)](https://beerpay.io/rupshabagchi/hackathon-starterpack-react?focus=wish)
