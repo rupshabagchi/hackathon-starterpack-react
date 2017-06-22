@@ -1,7 +1,6 @@
 
 
 [![Build Status](https://travis-ci.org/rupshabagchi/hackathon-starterpack-react.png)](https://travis-ci.org/rupshabagchi/hackathon-starterpack-react)
-[![Beerpay](https://beerpay.io/rupshabagchi/hackathon-starterpack-react/badge.svg?style=flat-square)](https://beerpay.io/rupshabagchi/hackathon-starterpack-react)
 
 # Hackathon starter boilerplate
 
