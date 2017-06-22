@@ -1,6 +1,6 @@
 
 
-[![Build Status](https://travis-ci.org/rupshabagchi/hackathon-starterpack-react.png)](https://travis-ci.org/rupshabagchi/hackathon-starterpack-react)
+[![Build Status](https://travis-ci.org/rupshabagchi/hackathon-starterpack-react.svg?branch=master)](https://travis-ci.org/rupshabagchi/hackathon-starterpack-react)
 
 # Hackathon starter boilerplate
 
