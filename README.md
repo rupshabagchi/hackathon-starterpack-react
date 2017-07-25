@@ -33,11 +33,12 @@ or using **yarn**
 ``` 
 npm install -g yarn
 yarn   
-/* If this throws an error saying 'node' not found, then most probably the bin is called nodejs. Make a simlink 
-ln -s /usr/bin/nodejs /usr/bin/node
-*/
 yarn run
-``` 
+```
+
+<!---/* If this throws an error saying 'node' not found, then most probably the bin is called nodejs. Make a simlink 
+ln -s /usr/bin/nodejs /usr/bin/node
+*/-->
 
 or using **Express** (server.js)
 
