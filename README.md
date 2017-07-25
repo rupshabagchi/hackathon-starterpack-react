@@ -4,7 +4,7 @@
 
 # Hackathon starter boilerplate
 
-This is a customizable static boilerpate app using React, to quickly start up the coding process during hackathons. It provides the basic setup including declarative routing to quickly get started on the front end.
+This is a customizable static boilerpate app using React, to enable quick protoyping during hackathons. It provides the basic setup including declarative routing to quickly get started on the front end.
 
 
 ## Features
